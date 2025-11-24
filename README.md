@@ -116,7 +116,7 @@ Para executar este projeto, você precisará de um ambiente SQL (PostgreSQL reco
 **Passo 3: Carregue os scripts e execute todos eles**
 
 # Autores
-* Bruno P. Galindo - Projeto Pessoal - https://www.linkedin.com/in/brunopgalindo/
+* **Bruno P. Galindo - Projeto Pessoal - https://www.linkedin.com/in/brunopgalindo/**
 
 # Motivação do Projeto
 * A intenção do projeto é me desafiar e desenvolver habilidades de pensamento crítico em relação à manipulação de dados, e garantir a confiabilidade dos dados através da limpeza.
