@@ -1,4 +1,4 @@
-<img width="838" height="123" alt="image" src="https://github.com/user-attachments/assets/273c09ca-0603-407d-a6e0-8d38d51a9d88" />### **[EN]**
+**[EN]**
 
 # Housing Data Cleaning with SQL
 This project's goal is to performs a Data Cleaning process on a Nashville Housing dataset using SQL. The primary goal is to transform raw, messy data into a standardized format suitable for analysis, format data, deal with missing addresses, and duplicate entries. 
